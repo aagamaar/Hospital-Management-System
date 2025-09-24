@@ -23,3 +23,11 @@ This project is a **Hospital Management System** designed to simplify and automa
 * **Database Connector**: JDBC (Java Database Connectivity)
 
 ***
+
+<img width="1920" height="1020" alt="Screenshot 2025-09-24 232804" src="https://github.com/user-attachments/assets/db9b1770-4d3d-4c75-be28-05795e93a393" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-24 232738" src="https://github.com/user-attachments/assets/2bdff03f-a6cd-4115-b797-92ef75b250d7" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-24 232730" src="https://github.com/user-attachments/assets/86cef1d5-e31f-41e6-8afc-0bd18e5c7cf0" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-24 232704" src="https://github.com/user-attachments/assets/4f103f6f-2ad1-4f83-86f3-20de33d7afea" />
+
+
+
